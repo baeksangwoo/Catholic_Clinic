@@ -46,7 +46,6 @@ public class DrawMainActivity extends AppCompatActivity implements View.OnTouchL
     private ImageView LL;
     private LinearLayout    DrawerLinear;
 
-    private int test;
     private final String[] navItems = {"당뇨", "감기", "암", "뇌출혈", "몰르겟다"};
     int gallery_grid_Images[]={R.drawable.ribs,R.drawable.eraser,R.drawable.left,
             R.drawable.new_pic, R.drawable.brush, R.drawable.save };

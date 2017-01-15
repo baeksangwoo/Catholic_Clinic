@@ -78,7 +78,7 @@ public class DrawMainActivity extends AppCompatActivity implements View.OnTouchL
     private gridAdapter GridAdapter;
     private ArrayList<String> f = new ArrayList<String>();// list of file paths //mylist 로한다
     File[] listFile;
-
+    private int ssbia;
     ExpandableListAdapter listAdapter;
     ExpandableListView expListView;
     List<String> listDataHeader;
